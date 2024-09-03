@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4662076265040604660
+  m_GuidHigh: 7905638041435537539
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4815033188426761715
+      m_GuidHigh: 6071107463959873699
+    m_SerializedTextureGuid:
+      m_GuidLow: 7918494725301379619
+      m_GuidHigh: 11798632351799746984
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Dog01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4755920903421032777
+      m_GuidHigh: 8555562253702594208
+    m_SerializedTextureGuid:
+      m_GuidLow: 11526062397269072673
+      m_GuidHigh: 8308331679755059467
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Horse02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5707110196990263441
+      m_GuidHigh: 17702221776299822234
+    m_SerializedTextureGuid:
+      m_GuidLow: 14966784470907298760
+      m_GuidHigh: 1718575110129961643
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Penguin03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5319695512139539417
+      m_GuidHigh: 12978191575874710445
+    m_SerializedTextureGuid:
+      m_GuidLow: 3455586927186906752
+      m_GuidHigh: 6636638232706421081
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Tiger04
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5122277490787242775
+      m_GuidHigh: 11952111734304830848
+    m_SerializedTextureGuid:
+      m_GuidLow: 13043800913177604317
+      m_GuidHigh: 97254648347919883
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Deer05
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5660559007361791665
+      m_GuidHigh: 1829546561321534653
+    m_SerializedTextureGuid:
+      m_GuidLow: 3108815196376067756
+      m_GuidHigh: 13293372962497175531
+    m_Size: {x: 0.07, y: 0.1027088}
+    m_SpecifySize: 1
+    m_Name: Cat06
+    m_Texture: {fileID: 0}

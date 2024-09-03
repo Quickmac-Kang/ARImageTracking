@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARImageTracking.unity
+    guid: 26b291ac114c03d41ab5d1471db24eac
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d00d93966492a27459b4a9701cc881ae,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: fed54559d50dfd84ca0f336af04f07f1,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 6c3cced5c5117ae428fdaeb976fa3abf, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c31bf8893a7ede042ad37715cd23459d,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: a09e7d2d99359d44fad9bbfc8175b01a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 10d526c7cbaf43c4eae963e36971cc32, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8f6c3d27bc516914aa04c30a6da024fc,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 09546bf63346c3a4ab49fe63aed30c6d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c08d4d8006d19e243b4342696cef2eaf,
+      type: 2}
